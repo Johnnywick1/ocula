@@ -3,7 +3,9 @@
         <img src="https://github.com/andrewcourtice/ocula/raw/master/client/src/assets/images/logo/logo-192.svg" alt="Ocula"/>
     </a>
 </p>
-
+ <a href="https://whatweather.today/">
+    <h1>Weather today</h1>
+    </a>
 # Ocula
 The free and open-source progressive weather app
 
